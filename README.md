@@ -12,6 +12,8 @@
 
 A radical new plugin for WordPress!
 
+This is an example of the output of [generator-plugin-wp](https://github.com/WebDevStudios/generator-plugin-wp) (also uses the include sub-generator)
+
 ## Installation ##
 
 ### Manual Installation ###

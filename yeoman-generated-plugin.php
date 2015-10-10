@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Yeoman Generated Plugin
  * Plugin URI:  http://webdevstudios.com
- * Description: A radical new plugin for WordPress!
+ * Description: A radical new plugin for WordPress! This is an example of the output of [generator-plugin-wp](https://github.com/WebDevStudios/generator-plugin-wp) (also uses the include sub-generator)
  * Version:     0.1.0
  * Author:      WebDevStudios
  * Author URI:  http://webdevstudios.com
