@@ -1,0 +1,17 @@
+{
+  "generator-plugin-wp": {
+    "name": "Yeoman Generated Plugin",
+    "homepage": "http://webdevstudios.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.1.0",
+    "author": "WebDevStudios",
+    "authoremail": "contact@webdevstudios.com",
+    "authorurl": "http://webdevstudios.com",
+    "license": "GPLv2",
+    "slug": "yeoman-generated-plugin",
+    "classname": "Yeoman_Generated_Plugin",
+    "classprefix": "YGP_",
+    "prefix": "yeoman_generated_plugin",
+    "year": 2015
+  }
+}
